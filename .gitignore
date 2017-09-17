@@ -1,0 +1,10 @@
+
+bases/training_text
+
+bases/test_text
+
+bases/working_test.csv
+
+bases/working_train.csv
+
+w2v_trained
