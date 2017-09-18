@@ -12,3 +12,19 @@ w2v_trained
 No_window/checkpoints_databases/nw_working_test.csv
 
 No_window/checkpoints_databases/nw_working_train.csv
+
+window/w2v_features
+
+No_window/w2v_features
+
+window/checkpoints_databases/w_working_train.csv
+
+window/checkpoints_databases/w_working_train_tfidf.npz
+
+window/checkpoints_databases/w_working_test_tfidf.npz
+
+No_window/checkpoints_databases/working_train_tfidf.npz
+
+No_window/checkpoints_databases/working_test_tfidf.npz
+
+window/checkpoints_databases/w_working_test.csv
