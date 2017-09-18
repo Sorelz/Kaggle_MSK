@@ -8,3 +8,7 @@ bases/working_test.csv
 bases/working_train.csv
 
 w2v_trained
+
+No_window/checkpoints_databases/nw_working_test.csv
+
+No_window/checkpoints_databases/nw_working_train.csv
