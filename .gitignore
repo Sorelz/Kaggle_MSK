@@ -30,3 +30,11 @@ No_window/checkpoints_databases/working_test_tfidf.npz
 window/checkpoints_databases/w_working_test.csv
 
 *.npz
+
+l2_meta_features/meta_test_l1l2.csv
+
+l2_meta_features/meta_train_l1l2.csv
+
+No_window/nw_meta_features/meta_test_l1l2.csv
+
+No_window/nw_meta_features/meta_train_l1l2.csv
