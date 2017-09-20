@@ -38,3 +38,10 @@ l2_meta_features/meta_train_l1l2.csv
 No_window/nw_meta_features/meta_test_l1l2.csv
 
 No_window/nw_meta_features/meta_train_l1l2.csv
+bases/training_variants
+bases/test_variants
+*.zip
+*.csv
+bases/test_variants
+Leaks/Leaks_all
+Leaks/Leaks_sub
