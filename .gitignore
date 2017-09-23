@@ -60,3 +60,5 @@ No_window/checkpoints_databases/nw_working_train_w2v.npz
 *.npz
 *.npz
 *.npz
+*.npz
+*.npz
