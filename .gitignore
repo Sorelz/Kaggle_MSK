@@ -57,3 +57,5 @@ Leaks/Leaks_sub
 No_window/checkpoints_databases/nw_working_train_w2v.npz
 *.csv
 *.npz
+*.npz
+*.npz
