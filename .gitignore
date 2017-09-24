@@ -62,3 +62,10 @@ No_window/checkpoints_databases/nw_working_train_w2v.npz
 *.npz
 *.npz
 *.npz
+No_window/w2v_features100
+No_window/w2v_features200
+No_window/w2v_features300
+*.npy
+testingfranck.ipynb
+.ipynb_checkpoints/testingfranck-checkpoint.ipynb
+testingfranck.ipynb
