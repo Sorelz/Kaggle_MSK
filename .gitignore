@@ -69,3 +69,23 @@ No_window/w2v_features300
 testingfranck.ipynb
 .ipynb_checkpoints/testingfranck-checkpoint.ipynb
 testingfranck.ipynb
+Kernel_Doc2Vec.ipynb
+localisation
+.ipynb_checkpoints/Kernel_Doc2Vec-checkpoint.ipynb
+.ipynb_checkpoints/Modeling_solo-checkpoint.ipynb
+.ipynb_checkpoints/Pre_Processing-checkpoint.ipynb
+.ipynb_checkpoints/Pre_Processing_2-checkpoint.ipynb
+.ipynb_checkpoints/Pre_processing_new-checkpoint.ipynb
+.ipynb_checkpoints/Pre_Processing_solo-checkpoint.ipynb
+No_window/.ipynb_checkpoints/nw_Pre_processing_uniprot-checkpoint.ipynb
+No_window/.ipynb_checkpoints/nw_Pre_processing_uniprot-Copy1-checkpoint.ipynb
+Pre_processing_new.ipynb
+solo_model/Modeling_solo.ipynb
+solo_model/Pre_Processing_solo.ipynb
+uniprot_extra_features/.ipynb_checkpoints/uniprot_biological_process-checkpoint.ipynb
+uniprot_extra_features/.ipynb_checkpoints/uniprot_molecular_fucntion-checkpoint.ipynb
+Window/old w_pre_processing/.ipynb_checkpoints/w_Pre_Processing_original-checkpoint.ipynb
+Window/.ipynb_checkpoints/w_Pre_Processing_1-checkpoint.ipynb
+window/.ipynb_checkpoints/w_Pre_Processing-checkpoint.ipynb
+uniprot_extra_features/uniprot_pre/.ipynb_checkpoints/uniprot_biological_pre_processing-checkpoint.ipynb
+uniprot_extra_features/uniprot_pre/.ipynb_checkpoints/uniprot_molecular_pre_processing-checkpoint.ipynb
