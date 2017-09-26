@@ -89,3 +89,6 @@ Window/.ipynb_checkpoints/w_Pre_Processing_1-checkpoint.ipynb
 window/.ipynb_checkpoints/w_Pre_Processing-checkpoint.ipynb
 uniprot_extra_features/uniprot_pre/.ipynb_checkpoints/uniprot_biological_pre_processing-checkpoint.ipynb
 uniprot_extra_features/uniprot_pre/.ipynb_checkpoints/uniprot_molecular_pre_processing-checkpoint.ipynb
+window/w2v_features100
+window/w2v_features200
+window/w2v_features300
