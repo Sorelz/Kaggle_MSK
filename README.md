@@ -11,7 +11,7 @@ Here is a representation of our Stacking approach:
 
 ### Window sub-stacking:
 - Pre-Processing:
--  Creation of features: 
+    - Creation of features: 
 
 
 
