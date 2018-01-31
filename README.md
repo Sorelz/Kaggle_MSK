@@ -2,7 +2,7 @@
 
 Project for Kaggle competition on spotting cancer by NLP.<br>
 Features: Gene, Variation, Text description on the Variation.<br>
-Target: 9 Class Label denoting the level of importance of the mutation. (Likely Neutral, Loss-of-function,Gain-of-function,..)
+Target: 9 Class Label denoting the level of importance of the mutation. (Likely Neutral, Loss-of-function, Gain-of-function,..)
 
 ## Approach: 2 Layers stacking
 
