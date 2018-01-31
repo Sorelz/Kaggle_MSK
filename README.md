@@ -1,7 +1,7 @@
 # Redefining Cancer Treatment
 
-Project for Kaggle competition on spotting cancer by NLP.
-Features: Gene, Variation, Text description on the Variation.
+Project for Kaggle competition on spotting cancer by NLP.<br>
+Features: Gene, Variation, Text description on the Variation.<br>
 Target: 9 Class Label denoting the level of importance of the mutation. (Likely Neutral, Loss-of-function,Gain-of-function,..)
 
 ## Approach: 2 Layers stacking
@@ -19,16 +19,16 @@ Here is a representation of our Stacking approach:
     - External pre-trained word2vec on biological documents.
     - TFIDF + 100,200,300 PCA reduction
 
--Modelling:
+- Modelling:
     - Cross-validation with XGboost to pick best configuration (100,200 or 300)
     - Grid-Searching hyper-parameters for XGboost, LightGBM, Logistic Regression, AdaBoostClassifier, Random Forest
-    -Predicting the train set by cross-validation and the test set by averaging cross-validation predictions, for the final stacking.
+    - Predicting the train set by cross-validation and the test set by averaging cross-validation predictions, for the final stacking.
     
 ### No-Window sub-stacking:
 Ideas are the same as the window part, except we are not reducing our text upstream.
 
 ### Final Stacking:
-Using our predictions from our 2 sub-stacking models, we build a Multinomial Logistic Regression upon it. 
+Using our predictions from our 2 sub-stacking models, we build a Multinomial Logistic Regression upon it.
 
 
     
