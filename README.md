@@ -5,7 +5,7 @@ Target: 9 Class Label denoting the level of importance of the mutation. (Likely 
 
 ## Approach: 2 Layers stacking
 
-
+![Stacking Image](images/stacking_readme.png "Stacking representation")
 
 
 
